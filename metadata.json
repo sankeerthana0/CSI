@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise Multi-Agent Cyber Threat Intelligence Agent",
+  "description": "Enterprise-grade multi-agent CTI system orchestrated with LangGraph logic, FAISS/ChromaDB styled RAG, and automated LLM evaluation pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
